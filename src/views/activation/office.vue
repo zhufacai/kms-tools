@@ -68,7 +68,7 @@ const params = reactive({
     name: null,
     key: null
   },
-  kmsServer: 'kms.moeclub.org',
+  kmsServer: 'kmstool.vercel.app',
   activationScript: {
     visible: false,
     content: null
